@@ -29,8 +29,8 @@
 <p>“Nice work on this product. You've saved our business! If you aren't sure, always go for this product. Believe me, you won't regret it.”</p>
 <!-- /wp:paragraph -->
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|xs","padding":{"top":"var:preset|spacing|xs"}}},"layout":{"type":"flex","flexWrap":"nowrap"},"fontSize":"14"} -->
-<div class="wp-block-group has-14-font-size" style="padding-top:var(--wp--preset--spacing--xs)"><!-- wp:image {"id":10311,"width":"38px","height":"38px","sizeSlug":"thumbnail","linkDestination":"none","style":{"border":{"radius":"999px"}},"className":""} -->
-<figure class="wp-block-image size-thumbnail is-resized has-custom-border" style="border-radius:999px"><img src="https://blockify.local/wp-content/themes/blockify/assets/img/avatar-4-150x150.jpg" alt="" class="wp-image-10311" style="border-radius:999px;width:38px;height:38px"/></figure>
+<div class="wp-block-group has-14-font-size" style="padding-top:var(--wp--preset--spacing--xs)"><!-- wp:image {"id":1077,"width":"38px","height":"38px","sizeSlug":"thumbnail","linkDestination":"none","style":{"border":{"radius":"999px"}},"className":""} -->
+<figure class="wp-block-image size-thumbnail is-resized has-custom-border" style="border-radius:999px"><img src="<?php echo content_url( "/themes/codeify/assets/" ) ?>img/088-150x150.jpg" alt="" class="wp-image-1077" style="border-radius:999px;width:38px;height:38px"/></figure>
 <!-- /wp:image -->
 <!-- wp:group {"style":{"spacing":{"blockGap":"4px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|neutral-50"}}}},"textColor":"neutral-50","className":"is-style-heading"} -->
@@ -77,8 +77,8 @@
 <div class="wp-block-group has-neutral-300-color has-neutral-900-background-color has-text-color has-background has-link-color has-20-font-size has-box-shadow" style="border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-left-radius:30px;border-bottom-right-radius:30px;border-top-style:none;border-top-width:0px;border-right-color:var(--wp--preset--color--neutral-800);border-right-width:1px;border-bottom-color:var(--wp--preset--color--neutral-800);border-bottom-width:1px;border-left-color:var(--wp--preset--color--neutral-800);border-left-width:1px;margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--sm);padding-right:var(--wp--preset--spacing--sm);padding-bottom:var(--wp--preset--spacing--sm);padding-left:var(--wp--preset--spacing--sm);font-style:normal;font-weight:600;--wp--custom--box-shadow--blur:30px;--wp--custom--box-shadow--spread:-15px;--wp--custom--box-shadow--color:var(--wp--preset--color--primary-900)"><!-- wp:quote {"className":"is-style-plain"} -->
 <blockquote class="wp-block-quote is-style-plain"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
 <div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|xs"}},"layout":{"type":"flex","flexWrap":"nowrap"},"fontSize":"14"} -->
-<div class="wp-block-group has-14-font-size"><!-- wp:image {"id":347,"width":"38px","height":"38px","sizeSlug":"thumbnail","linkDestination":"none","style":{"border":{"radius":"999px"}},"className":""} -->
-<figure class="wp-block-image size-thumbnail is-resized has-custom-border" style="border-radius:999px"><img src="<?php echo content_url( "/themes/codeify/assets/" ) ?>img/avatar-5-150x150.jpg" alt="" class="wp-image-347" style="border-radius:999px;width:38px;height:38px"/></figure>
+<div class="wp-block-group has-14-font-size"><!-- wp:image {"id":995,"width":"38px","height":"38px","sizeSlug":"thumbnail","linkDestination":"none","style":{"border":{"radius":"999px"}},"className":""} -->
+<figure class="wp-block-image size-thumbnail is-resized has-custom-border" style="border-radius:999px"><img src="<?php echo content_url( "/themes/codeify/assets/" ) ?>img/006-150x150.jpg" alt="" class="wp-image-995" style="border-radius:999px;width:38px;height:38px"/></figure>
 <!-- /wp:image -->
 <!-- wp:group {"style":{"spacing":{"blockGap":"4px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|neutral-50"}}}},"textColor":"neutral-50","className":"is-style-heading"} -->
@@ -109,8 +109,8 @@
 <p>“Nice work on this product. You've saved our business! If you aren't sure, always go for this product. Believe me, you won't regret it.”</p>
 <!-- /wp:paragraph -->
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|xs","padding":{"top":"var:preset|spacing|xs"}}},"layout":{"type":"flex","flexWrap":"nowrap"},"fontSize":"14"} -->
-<div class="wp-block-group has-14-font-size" style="padding-top:var(--wp--preset--spacing--xs)"><!-- wp:image {"id":345,"width":"38px","height":"38px","sizeSlug":"thumbnail","linkDestination":"none","style":{"border":{"radius":"999px"}},"className":""} -->
-<figure class="wp-block-image size-thumbnail is-resized has-custom-border" style="border-radius:999px"><img src="<?php echo content_url( "/themes/codeify/assets/" ) ?>img/avatar-3-150x150.jpg" alt="" class="wp-image-345" style="border-radius:999px;width:38px;height:38px"/></figure>
+<div class="wp-block-group has-14-font-size" style="padding-top:var(--wp--preset--spacing--xs)"><!-- wp:image {"id":1059,"width":"38px","height":"38px","sizeSlug":"thumbnail","linkDestination":"none","style":{"border":{"radius":"999px"}},"className":""} -->
+<figure class="wp-block-image size-thumbnail is-resized has-custom-border" style="border-radius:999px"><img src="<?php echo content_url( "/themes/codeify/assets/" ) ?>img/070-150x150.jpg" alt="" class="wp-image-1059" style="border-radius:999px;width:38px;height:38px"/></figure>
 <!-- /wp:image -->
 <!-- wp:group {"style":{"spacing":{"blockGap":"4px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|neutral-50"}}}},"textColor":"neutral-50","className":"is-style-heading"} -->
@@ -155,8 +155,8 @@
 <p>“I don't know what else to say. This is simply unbelievable! Nice work on this product. You've helped our business!”</p>
 <!-- /wp:paragraph -->
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|xs","padding":{"top":"var:preset|spacing|xs"}}},"layout":{"type":"flex","flexWrap":"nowrap"},"fontSize":"14"} -->
-<div class="wp-block-group has-14-font-size" style="padding-top:var(--wp--preset--spacing--xs)"><!-- wp:image {"id":344,"width":"38px","height":"38px","sizeSlug":"thumbnail","linkDestination":"none","style":{"border":{"radius":"999px"}},"className":""} -->
-<figure class="wp-block-image size-thumbnail is-resized has-custom-border" style="border-radius:999px"><img src="<?php echo content_url( "/themes/codeify/assets/" ) ?>img/avatar-2-150x150.jpg" alt="" class="wp-image-344" style="border-radius:999px;width:38px;height:38px"/></figure>
+<div class="wp-block-group has-14-font-size" style="padding-top:var(--wp--preset--spacing--xs)"><!-- wp:image {"id":1069,"width":"38px","height":"38px","sizeSlug":"thumbnail","linkDestination":"none","style":{"border":{"radius":"999px"}},"className":""} -->
+<figure class="wp-block-image size-thumbnail is-resized has-custom-border" style="border-radius:999px"><img src="<?php echo content_url( "/themes/codeify/assets/" ) ?>img/080-150x150.jpg" alt="" class="wp-image-1069" style="border-radius:999px;width:38px;height:38px"/></figure>
 <!-- /wp:image -->
 <!-- wp:group {"style":{"spacing":{"blockGap":"4px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|neutral-50"}}}},"textColor":"neutral-50","className":"is-style-heading"} -->
@@ -175,8 +175,8 @@
 <p>“Nice work on this product. You've saved our business! If you aren't sure, always go for this product. Believe me, you won't regret it.”</p>
 <!-- /wp:paragraph -->
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|xs","padding":{"top":"var:preset|spacing|xs"}}},"layout":{"type":"flex","flexWrap":"nowrap"},"fontSize":"14"} -->
-<div class="wp-block-group has-14-font-size" style="padding-top:var(--wp--preset--spacing--xs)"><!-- wp:image {"id":347,"width":"38px","height":"38px","sizeSlug":"thumbnail","linkDestination":"none","style":{"border":{"radius":"999px"}},"className":""} -->
-<figure class="wp-block-image size-thumbnail is-resized has-custom-border" style="border-radius:999px"><img src="<?php echo content_url( "/themes/codeify/assets/" ) ?>img/avatar-5-150x150.jpg" alt="" class="wp-image-347" style="border-radius:999px;width:38px;height:38px"/></figure>
+<div class="wp-block-group has-14-font-size" style="padding-top:var(--wp--preset--spacing--xs)"><!-- wp:image {"id":1009,"width":"38px","height":"38px","sizeSlug":"thumbnail","linkDestination":"none","style":{"border":{"radius":"999px"}},"className":""} -->
+<figure class="wp-block-image size-thumbnail is-resized has-custom-border" style="border-radius:999px"><img src="<?php echo content_url( "/themes/codeify/assets/" ) ?>img/020-150x150.jpg" alt="" class="wp-image-1009" style="border-radius:999px;width:38px;height:38px"/></figure>
 <!-- /wp:image -->
 <!-- wp:group {"style":{"spacing":{"blockGap":"4px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|neutral-50"}}}},"textColor":"neutral-50","className":"is-style-heading"} -->
