@@ -22,7 +22,7 @@
 <h1 class="wp-block-heading has-text-align-center has-primary-foreground-gradient-background has-background">Revolutionizing code collaboration</h1>
 <!-- /wp:heading -->
 <!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary-950"}}}},"textColor":"primary-950"} -->
-<p class="aligncenter has-text-align-center has-primary-950-color has-text-color has-link-color aligncenter">Codeify is a next generation coding assistant for writing AI powered code with your team. We are building the future of code collaboration by leveraging the power of AI to automate every repetitive task.</p>
+<p class="aligncenter has-text-align-center has-primary-950-color has-text-color has-link-color aligncenter">We're building the future of code collaboration by leveraging the power of AI to automate repetitive tasks and simplify your teams workflow</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 <!-- wp:group {"align":"wide","style":{"spacing":{"margin":{"top":"var:preset|spacing|lg"}},"border":{"radius":"30px"}},"layout":{"type":"default"},"animation":{"name":"fade-in-up","duration":"1","timingFunction":"ease-in-out","playState":"running","event":"enter","iterationCount":"1"}} -->
@@ -58,67 +58,18 @@
 <p class="aligncenter has-text-align-center has-primary-200-color has-text-color has-link-color aligncenter">Our mission is to help you spend less time writing code and more time building your business by leveraging the power of AI.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
-<!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|md","left":"var:preset|spacing|md"}}}} -->
-<div class="wp-block-columns alignwide"><!-- wp:column {"verticalAlignment":"stretch","width":"66.6%","style":{"position":{"all":"relative"},"overflow":{"all":"hidden"},"elements":{"link":{"color":{"text":"var:preset|color|primary-100"}}}},"backgroundColor":"neutral-950","textColor":"primary-100"} -->
-<div class="wp-block-column is-vertically-aligned-stretch has-primary-100-color has-neutral-950-background-color has-text-color has-background has-link-color" style="flex-basis:66.6%"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg","left":"var:preset|spacing|lg","right":"var:preset|spacing|lg"},"margin":{"top":"0","bottom":"0"}},"position":{"all":"relative"},"zIndex":{"all":"1"},"dimensions":{"minHeight":"100%"}},"gradient":"light-bulb","layout":{"type":"flex","orientation":"vertical","verticalAlignment":"space-between"}} -->
-<div class="wp-block-group has-light-bulb-gradient-background has-background" style="min-height:100%;margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--lg);padding-right:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg);padding-left:var(--wp--preset--spacing--lg)"><!-- wp:heading {"level":3,"style":{"boxShadow":"","position":{"all":"relative"},"zIndex":{"all":"1"},"spacing":{"margin":{"top":"0","bottom":"0"}}},"gradient":"primary-background","fontSize":"64","shadowPreset":"","shadowPresetHover":"","useCustomBoxShadow":true} -->
-<h3 class="wp-block-heading has-primary-background-gradient-background has-background has-64-font-size" style="margin-top:0;margin-bottom:0">Meet our leadership</h3>
+<!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|md","left":"var:preset|spacing|md"},"margin":{"top":"var:preset|spacing|md"}}}} -->
+<div class="wp-block-columns alignwide" style="margin-top:var(--wp--preset--spacing--md)"><!-- wp:column {"verticalAlignment":"stretch","width":"66.6%","style":{"position":{"all":"relative"},"overflow":{"all":"hidden"},"elements":{"link":{"color":{"text":"var:preset|color|primary-100"}}}},"backgroundColor":"neutral-950","textColor":"primary-100"} -->
+<div class="wp-block-column is-vertically-aligned-stretch has-primary-100-color has-neutral-950-background-color has-text-color has-background has-link-color" style="flex-basis:66.6%"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg","left":"var:preset|spacing|lg","right":"var:preset|spacing|lg"}},"position":{"all":"relative"},"zIndex":{"all":"1"},"border":{"radius":"30px"},"gridColumnStart":{"all":"1"},"gridColumnEnd":{"all":"3"},"dimensions":{"minHeight":"100%"}},"gradient":"light-bulb","layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group has-light-bulb-gradient-background has-background" style="border-radius:30px;min-height:100%;padding-top:var(--wp--preset--spacing--lg);padding-right:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg);padding-left:var(--wp--preset--spacing--lg)"><!-- wp:heading {"level":3,"style":{"boxShadow":"","position":{"all":"relative"},"zIndex":{"all":"1"},"spacing":{"margin":{"top":"0","bottom":"0"}}},"gradient":"primary-background","fontSize":"64","shadowPreset":"","shadowPresetHover":"","useCustomBoxShadow":true} -->
+<h3 class="wp-block-heading has-primary-background-gradient-background has-background has-64-font-size" style="margin-top:0;margin-bottom:0">Our story</h3>
 <!-- /wp:heading -->
-<!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"0"}},"typography":{"fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|primary-200"}}}},"textColor":"primary-200","layout":{"type":"default"},"fontSize":"16"} -->
-<div class="wp-block-group has-primary-200-color has-text-color has-link-color has-16-font-size" style="margin-top:0;margin-bottom:0;font-style:normal;font-weight:500"><!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"var:preset|spacing|lg","left":"var:preset|spacing|lg"},"margin":{"top":"var:preset|spacing|sm"}}}} -->
-<div class="wp-block-columns" style="margin-top:var(--wp--preset--spacing--sm)"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":1077,"sizeSlug":"medium","linkDestination":"none","style":{"filter":{"opacity":"90"}}} -->
-<figure class="wp-block-image size-medium" style="filter:opacity(90%)"><img src="<?php echo home_url() ?>/wp-content/uploads/sites/8/2023/12/088-300x300.jpg" alt="" class="wp-image-1077"/></figure>
-<!-- /wp:image -->
-<!-- wp:heading {"level":4,"gradient":"primary-background","fontSize":"20"} -->
-<h4 class="wp-block-heading has-primary-background-gradient-background has-background has-20-font-size">Helen Sanders</h4>
-<!-- /wp:heading -->
-<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"var:preset|spacing|xxs","bottom":"0"}}}} -->
-<p style="margin-top:var(--wp--preset--spacing--xxs);margin-bottom:0">Co-founder &amp; CEO</p>
+<!-- wp:paragraph {"gradient":"primary-background"} -->
+<p class="has-primary-background-gradient-background has-background">Codeify began as an experiment in our small digital agency to find out if it was possible to leverage AI to improve our team collaboration and workflow. We were already using a number of code collaboration, project management and communication tools within our team. We knew that we needed to find a way to automate some of the repetitive tasks that we were doing every day. We started by building a simple AI powered chatbot that would help us with some of the repetitive tasks that we were doing every day.</p>
 <!-- /wp:paragraph -->
-<!-- wp:social-links {"iconColor":"primary-950","iconColorValue":"#172554","iconBackgroundColor":"primary-200","iconBackgroundColorValue":"#bfdbfe","size":"has-small-icon-size","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|xs","left":"var:preset|spacing|xs"},"margin":{"top":"var:preset|spacing|xs","bottom":"0"}}},"className":"is-style-default"} -->
-<ul class="wp-block-social-links has-small-icon-size has-icon-color has-icon-background-color is-style-default" style="margin-top:var(--wp--preset--spacing--xs);margin-bottom:0"><!-- wp:social-link {"url":"#","service":"facebook"} /-->
-<!-- wp:social-link {"url":"#","service":"linkedin"} /-->
-<!-- wp:social-link {"url":"#","service":"x"} /-->
-<!-- wp:social-link {"url":"#","service":"instagram"} /--></ul>
-<!-- /wp:social-links --></div>
-<!-- /wp:column -->
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":1050,"sizeSlug":"medium","linkDestination":"none"} -->
-<figure class="wp-block-image size-medium"><img src="<?php echo home_url() ?>/wp-content/uploads/sites/8/2023/12/061-300x300.jpg" alt="" class="wp-image-1050"/></figure>
-<!-- /wp:image -->
-<!-- wp:heading {"level":4,"gradient":"primary-background","fontSize":"20"} -->
-<h4 class="wp-block-heading has-primary-background-gradient-background has-background has-20-font-size">Shane Anthony</h4>
-<!-- /wp:heading -->
-<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"var:preset|spacing|xxs"}}}} -->
-<p style="margin-top:var(--wp--preset--spacing--xxs)">Co-founder &amp; CTO</p>
-<!-- /wp:paragraph -->
-<!-- wp:social-links {"iconColor":"primary-950","iconColorValue":"#172554","iconBackgroundColor":"primary-200","iconBackgroundColorValue":"#bfdbfe","size":"has-small-icon-size","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|xs","left":"var:preset|spacing|xs"},"margin":{"top":"var:preset|spacing|xs"}}},"className":"is-style-default"} -->
-<ul class="wp-block-social-links has-small-icon-size has-icon-color has-icon-background-color is-style-default" style="margin-top:var(--wp--preset--spacing--xs)"><!-- wp:social-link {"url":"#","service":"facebook"} /-->
-<!-- wp:social-link {"url":"#","service":"linkedin"} /-->
-<!-- wp:social-link {"url":"#","service":"x"} /-->
-<!-- wp:social-link {"url":"#","service":"instagram"} /--></ul>
-<!-- /wp:social-links --></div>
-<!-- /wp:column -->
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":1029,"sizeSlug":"medium","linkDestination":"none"} -->
-<figure class="wp-block-image size-medium"><img src="<?php echo home_url() ?>/wp-content/uploads/sites/8/2023/12/040-300x300.jpg" alt="" class="wp-image-1029"/></figure>
-<!-- /wp:image -->
-<!-- wp:heading {"level":4,"gradient":"primary-background","fontSize":"20"} -->
-<h4 class="wp-block-heading has-primary-background-gradient-background has-background has-20-font-size">Luke Willis</h4>
-<!-- /wp:heading -->
-<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"var:preset|spacing|xxs"}}}} -->
-<p style="margin-top:var(--wp--preset--spacing--xxs)">Vice President</p>
-<!-- /wp:paragraph -->
-<!-- wp:social-links {"iconColor":"primary-950","iconColorValue":"#172554","iconBackgroundColor":"primary-200","iconBackgroundColorValue":"#bfdbfe","size":"has-small-icon-size","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|xs","left":"var:preset|spacing|xs"},"margin":{"top":"var:preset|spacing|xs"}}},"className":"is-style-default"} -->
-<ul class="wp-block-social-links has-small-icon-size has-icon-color has-icon-background-color is-style-default" style="margin-top:var(--wp--preset--spacing--xs)"><!-- wp:social-link {"url":"#","service":"facebook"} /-->
-<!-- wp:social-link {"url":"#","service":"linkedin"} /-->
-<!-- wp:social-link {"url":"#","service":"x"} /-->
-<!-- wp:social-link {"url":"#","service":"instagram"} /--></ul>
-<!-- /wp:social-links --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group --></div>
+<!-- wp:paragraph {"gradient":"primary-background"} -->
+<p class="has-primary-background-gradient-background has-background">We were amazed at how much time it saved us and decided to share it with the world. We launched the beta version in early 2024 and have been growing rapidly ever since.</p>
+<!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
 <!-- wp:column {"verticalAlignment":"stretch","width":"33.3%","style":{"order":{"mobile":"1"},"spacing":{"padding":{"top":"var:preset|spacing|sm","bottom":"0","left":"var:preset|spacing|sm","right":"var:preset|spacing|sm"}},"elements":{"link":{"color":{"text":"var:preset|color|primary-950"}}},"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"primary-950","gradient":"primary","fontSize":"16"} -->
@@ -128,10 +79,10 @@
 <h3 class="wp-block-heading" style="margin-top:0;margin-bottom:0">A quick word from the founder</h3>
 <!-- /wp:heading --></div>
 <!-- /wp:group -->
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|sm","bottom":"var:preset|spacing|sm","left":"var:preset|spacing|sm","right":"var:preset|spacing|sm"},"margin":{"top":"0","bottom":"0"}},"border":{"radius":{"topLeft":"30px","topRight":"30px","bottomLeft":"0px","bottomRight":"0px"}}},"gradient":"primary-background","layout":{"type":"default"}} -->
-<div class="wp-block-group has-primary-background-gradient-background has-background" style="border-top-left-radius:30px;border-top-right-radius:30px;border-bottom-left-radius:0px;border-bottom-right-radius:0px;margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--sm);padding-right:var(--wp--preset--spacing--sm);padding-bottom:var(--wp--preset--spacing--sm);padding-left:var(--wp--preset--spacing--sm)"><!-- wp:paragraph -->
-<p>Hi there! Thanks for checking out Codeify. We started Codeify because I knew there had to be a way to leverage artificial intelligence and machine learning to make code collaboration more efficient and effective. I'm excited to share what we've been working on with you and hope you'll join us on this journey.</p>
-<!-- /wp:paragraph -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|sm","bottom":"var:preset|spacing|sm","left":"var:preset|spacing|sm","right":"var:preset|spacing|sm"},"margin":{"top":"0","bottom":"0"}},"border":{"radius":{"topLeft":"30px","topRight":"30px","bottomLeft":"0px","bottomRight":"0px"}},"width":{"all":"100%"}},"gradient":"primary-background","layout":{"type":"default"}} -->
+<div class="wp-block-group has-primary-background-gradient-background has-background" style="border-top-left-radius:30px;border-top-right-radius:30px;border-bottom-left-radius:0px;border-bottom-right-radius:0px;margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--sm);padding-right:var(--wp--preset--spacing--sm);padding-bottom:var(--wp--preset--spacing--sm);padding-left:var(--wp--preset--spacing--sm)"><!-- wp:code {"style":{"border":{"radius":"0px"},"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"}}},"backgroundColor":"transparent","language":"xml","wrapLines":true,"copyToClipboard":false} -->
+<pre class="wp-block-code has-transparent-background-color has-background" style="border-radius:0px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><code>Hi there! Thanks for checking out Codeify. We started Codeify because I knew there had to be a way to leverage artificial intelligence and machine learning to make code collaboration more efficient and effective. I'm excited to share what we've been working on with you and hope you'll join us on this journey.</code></pre>
+<!-- /wp:code -->
 <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group"><!-- wp:image {"id":1050,"width":"60px","sizeSlug":"thumbnail","linkDestination":"none"} -->
 <figure class="wp-block-image size-thumbnail is-resized"><img src="<?php echo home_url() ?>/wp-content/uploads/sites/8/2023/12/061-150x150.jpg" alt="" class="wp-image-1050" style="width:60px"/></figure>
@@ -149,7 +100,7 @@
 <div class="wp-block-column" style="flex-basis:33.3%"><!-- wp:group {"align":"wide","style":{"spacing":{"margin":{"top":"0"}},"border":{"radius":"30px"},"position":{"all":"relative"},"typography":{"lineHeight":"1.2","fontStyle":"normal","fontWeight":"500"},"overflow":{"all":"hidden"}},"gradient":"radial-up","className":"is-style-default","layout":{"type":"default"},"fontSize":"14"} -->
 <div class="wp-block-group alignwide is-style-default has-radial-up-gradient-background has-background has-14-font-size" style="border-radius:30px;margin-top:0;font-style:normal;font-weight:500;line-height:1.2"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg","left":"var:preset|spacing|lg","right":"var:preset|spacing|lg"}}},"layout":{"type":"default"}} -->
 <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--lg);padding-right:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg);padding-left:var(--wp--preset--spacing--lg)"><!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Have fun coding with your team</h3>
+<h3 class="wp-block-heading">Making team work even better</h3>
 <!-- /wp:heading --></div>
 <!-- /wp:group -->
 <!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"right":"var:preset|spacing|sm","left":"var:preset|spacing|sm"}},"typography":{"fontStyle":"normal","fontWeight":"500"}},"layout":{"type":"default"},"fontSize":"12"} -->
@@ -303,54 +254,195 @@
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
-<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"blockGap":"var:preset|spacing|lg"}},"layout":{"type":"default"}} -->
-<div class="wp-block-group alignwide" style="padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":"66.66%"} -->
-<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:heading {"gradient":"primary-background","className":"is-style-default","fontSize":"64"} -->
-<h2 class="wp-block-heading is-style-default has-primary-background-gradient-background has-background has-64-font-size">We're working on the next big thing in artificial intelligence</h2>
-<!-- /wp:heading -->
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg","left":"var:preset|spacing|lg","right":"var:preset|spacing|lg"},"margin":{"top":"var:preset|spacing|lg","bottom":"0"}},"position":{"all":"relative"},"zIndex":{"all":"1"},"border":{"radius":"30px"}},"gradient":"light-bulb","layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group has-light-bulb-gradient-background has-background" style="border-radius:30px;margin-top:var(--wp--preset--spacing--lg);margin-bottom:0;padding-top:var(--wp--preset--spacing--lg);padding-right:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg);padding-left:var(--wp--preset--spacing--lg)"><!-- wp:heading {"level":3,"style":{"boxShadow":"","position":{"all":"relative"},"zIndex":{"all":"1"},"spacing":{"margin":{"top":"0","bottom":"0"}}},"gradient":"primary-background","fontSize":"64","shadowPreset":"","shadowPresetHover":"","useCustomBoxShadow":true} -->
-<h3 class="wp-block-heading has-primary-background-gradient-background has-background has-64-font-size" style="margin-top:0;margin-bottom:0">Our story</h3>
-<!-- /wp:heading -->
-<!-- wp:paragraph {"gradient":"primary-background"} -->
-<p class="has-primary-background-gradient-background has-background">Codeify began as an experiment in our small digital agency to find out if it was possible to leverage AI to improve our team collaboration and workflow. We were already using a number of code collaboration, project management and communication tools within our team. We knew that we needed to find a way to automate some of the repetitive tasks that we were doing every day. We started by building a simple AI powered chatbot that would help us with some of the repetitive tasks that we were doing every day.</p>
-<!-- /wp:paragraph -->
-<!-- wp:paragraph {"gradient":"primary-background"} -->
-<p class="has-primary-background-gradient-background has-background">We were amazed at how much time it saved us and decided to share it with the world. We launched the beta version in early 2024 and have been growing rapidly ever since.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column -->
-<!-- wp:column {"width":"33.33%"} -->
-<div class="wp-block-column" style="flex-basis:33.33%"></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"gradient":"light-bulb"} -->
-<div class="wp-block-column has-light-bulb-gradient-background has-background"></div>
-<!-- /wp:column -->
-<!-- wp:column {"gradient":"light-bulb"} -->
-<div class="wp-block-column has-light-bulb-gradient-background has-background"></div>
-<!-- /wp:column -->
-<!-- wp:column {"gradient":"light-bulb"} -->
-<div class="wp-block-column has-light-bulb-gradient-background has-background"></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->
-<!-- wp:group {"align":"wide","style":{"border":{"radius":"30px"},"overflow":{"all":"hidden"},"spacing":{"padding":{"right":"var:preset|spacing|sm","left":"var:preset|spacing|sm"}}},"gradient":"radial-down","layout":{"type":"default"}} -->
-<div class="wp-block-group alignwide has-radial-down-gradient-background has-background" style="border-radius:30px;padding-right:var(--wp--preset--spacing--sm);padding-left:var(--wp--preset--spacing--sm)"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|sm"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--sm)"><!-- wp:group {"style":{"spacing":{"margin":{"top":"0"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"},"animation":{"name":"fade-in-down","duration":1}} -->
+<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"blockGap":"var:preset|spacing|lg","margin":{"top":"0","bottom":"0"}}},"layout":{"type":"default"}} -->
+<div class="wp-block-group alignwide" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"blockGap":"0"},"position":{"all":"relative"},"zIndex":{"all":"1"},"border":{"radius":"30px"}},"layout":{"type":"flex","orientation":"vertical","verticalAlignment":"space-between","justifyContent":"center"}} -->
+<div class="wp-block-group" style="border-radius:30px;margin-top:0;margin-bottom:0"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"margin":{"top":"0"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"},"animation":{"name":"fade-in-down","duration":1}} -->
 <div class="wp-block-group has-animation" style="margin-top:0;animation-name:fade-in-down;animation-duration:1s;animation-iteration-count:1"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|xxs","padding":{"top":"4px","bottom":"4px","left":"12px","right":"var:preset|spacing|xs"}},"border":{"radius":"30px","width":"1px"},"boxShadow":{"color":"var(\u002d\u002dwp\u002d\u002dpreset\u002d\u002dcolor\u002d\u002dprimary-900)"},"typography":{"fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|primary-300"}}}},"borderColor":"primary-900","textColor":"primary-300","gradient":"light-bulb","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"},"fontSize":"14","animation":{},"shadowPreset":"","shadowPresetHover":"","useCustomBoxShadow":true} -->
 <div class="wp-block-group has-border-color has-primary-900-border-color has-primary-300-color has-light-bulb-gradient-background has-text-color has-background has-link-color has-14-font-size has-box-shadow" style="border-width:1px;border-radius:30px;padding-top:4px;padding-right:var(--wp--preset--spacing--xs);padding-bottom:4px;padding-left:12px;font-style:normal;font-weight:500;--wp--custom--box-shadow--color:var(--wp--preset--color--primary-900)"><!-- wp:image {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary-500"}}}},"className":"is-style-icon","textColor":"primary-500","iconSet":"phosphor-duotone","iconName":"users-three-duotone","iconSize":"1.5em","iconSvgString":"\u003csvg xmlns=\u0022http://www.w3.org/2000/svg\u0022 viewBox=\u00220 0 256 256\u0022 fill=\u0022currentColor\u0022\u003e\u003cpath d=\u0022M168,144a40,40,0,1,1-40-40A40,40,0,0,1,168,144ZM64,56A32,32,0,1,0,96,88,32,32,0,0,0,64,56Zm128,0a32,32,0,1,0,32,32A32,32,0,0,0,192,56Z\u0022 opacity=\u00220.2\u0022/\u003e\u003cpath d=\u0022M244.8,150.4a8,8,0,0,1-11.2-1.6A51.6,51.6,0,0,0,192,128a8,8,0,0,1,0-16,24,24,0,1,0-23.24-30,8,8,0,1,1-15.5-4A40,40,0,1,1,219,117.51a67.94,67.94,0,0,1,27.43,21.68A8,8,0,0,1,244.8,150.4ZM190.92,212a8,8,0,1,1-13.85,8,57,57,0,0,0-98.15,0,8,8,0,1,1-13.84-8,72.06,72.06,0,0,1,33.74-29.92,48,48,0,1,1,58.36,0A72.06,72.06,0,0,1,190.92,212ZM128,176a32,32,0,1,0-32-32A32,32,0,0,0,128,176ZM72,120a8,8,0,0,0-8-8A24,24,0,1,1,87.24,82a8,8,0,1,0,15.5-4A40,40,0,1,0,37,117.51,67.94,67.94,0,0,0,9.6,139.19a8,8,0,1,0,12.8,9.61A51.6,51.6,0,0,1,64,128,8,8,0,0,0,72,120Z\u0022/\u003e\u003c/svg\u003e"} -->
 <figure class="wp-block-image is-style-icon has-primary-500-color has-text-color has-link-color" style="--wp--custom--icon--color:var(--wp--preset--color--primary-500,currentColor);--wp--custom--icon--size:1.5em;--wp--custom--icon--url:url('data:image/svg+xml;utf8,<svg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 256 256&quot; fill=&quot;currentColor&quot;&gt;<path d=&quot;M168,144a40,40,0,1,1-40-40A40,40,0,0,1,168,144ZM64,56A32,32,0,1,0,96,88,32,32,0,0,0,64,56Zm128,0a32,32,0,1,0,32,32A32,32,0,0,0,192,56Z&quot; opacity=&quot;0.2&quot;/&gt;<path d=&quot;M244.8,150.4a8,8,0,0,1-11.2-1.6A51.6,51.6,0,0,0,192,128a8,8,0,0,1,0-16,24,24,0,1,0-23.24-30,8,8,0,1,1-15.5-4A40,40,0,1,1,219,117.51a67.94,67.94,0,0,1,27.43,21.68A8,8,0,0,1,244.8,150.4ZM190.92,212a8,8,0,1,1-13.85,8,57,57,0,0,0-98.15,0,8,8,0,1,1-13.84-8,72.06,72.06,0,0,1,33.74-29.92,48,48,0,1,1,58.36,0A72.06,72.06,0,0,1,190.92,212ZM128,176a32,32,0,1,0-32-32A32,32,0,0,0,128,176ZM72,120a8,8,0,0,0-8-8A24,24,0,1,1,87.24,82a8,8,0,1,0,15.5-4A40,40,0,1,0,37,117.51,67.94,67.94,0,0,0,9.6,139.19a8,8,0,1,0,12.8,9.61A51.6,51.6,0,0,1,64,128,8,8,0,0,0,72,120Z&quot;/&gt;</svg&gt;')"><img alt=""/></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
-<p>Careers</p>
+<p>Our Team</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
-<!-- wp:heading {"textAlign":"center","gradient":"primary-background"} -->
-<h2 class="wp-block-heading has-text-align-center has-primary-background-gradient-background has-background">Join our team and launch the career of your dreams</h2>
+<!-- wp:heading {"textAlign":"center","style":{"boxShadow":"","position":{"all":"relative"},"zIndex":{"all":"1"}},"gradient":"primary-background","fontSize":"60","shadowPreset":"","shadowPresetHover":"","useCustomBoxShadow":true} -->
+<h2 class="wp-block-heading has-text-align-center has-primary-background-gradient-background has-background has-60-font-size">Meet our leadership</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary-100"}}}},"textColor":"primary-100"} -->
+<p class="aligncenter has-text-align-center has-primary-100-color has-text-color has-link-color aligncenter">We’re a dynamic group of individuals who are passionate about what we do and dedicated to delivering the best results for our clients.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|lg","bottom":"0"}},"typography":{"fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|primary-200"}}}},"textColor":"primary-200","layout":{"type":"default"},"fontSize":"16"} -->
+<div class="wp-block-group has-primary-200-color has-text-color has-link-color has-16-font-size" style="margin-top:var(--wp--preset--spacing--lg);margin-bottom:0;font-style:normal;font-weight:500"><!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"var:preset|spacing|md","left":"var:preset|spacing|md"},"margin":{"top":"0"}}}} -->
+<div class="wp-block-columns" style="margin-top:0"><!-- wp:column {"width":"33.33%","style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md","left":"var:preset|spacing|md","right":"var:preset|spacing|md"}}},"backgroundColor":"neutral-900","className":"is-style-default"} -->
+<div class="wp-block-column is-style-default has-neutral-900-background-color has-background" style="padding-top:var(--wp--preset--spacing--md);padding-right:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--md);padding-left:var(--wp--preset--spacing--md);flex-basis:33.33%"><!-- wp:image {"id":1077,"sizeSlug":"full","linkDestination":"none","style":{"filter":{"opacity":"90"}}} -->
+<figure class="wp-block-image size-full" style="filter:opacity(90%)"><img src="<?php echo home_url() ?>/wp-content/uploads/sites/8/2023/12/088.jpg" alt="" class="wp-image-1077"/></figure>
+<!-- /wp:image -->
+<!-- wp:heading {"level":4,"gradient":"primary-background","fontSize":"20"} -->
+<h4 class="wp-block-heading has-primary-background-gradient-background has-background has-20-font-size">Helen Sanders</h4>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"var:preset|spacing|xxs","bottom":"0"}}}} -->
+<p style="margin-top:var(--wp--preset--spacing--xxs);margin-bottom:0">Co-founder &amp; CEO</p>
+<!-- /wp:paragraph -->
+<!-- wp:social-links {"iconColor":"primary-950","iconColorValue":"#172554","iconBackgroundColor":"primary-200","iconBackgroundColorValue":"#bfdbfe","size":"has-small-icon-size","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|xs","left":"var:preset|spacing|xs"},"margin":{"top":"var:preset|spacing|xs","bottom":"0"}}},"className":"is-style-default"} -->
+<ul class="wp-block-social-links has-small-icon-size has-icon-color has-icon-background-color is-style-default" style="margin-top:var(--wp--preset--spacing--xs);margin-bottom:0"><!-- wp:social-link {"url":"#","service":"facebook"} /-->
+<!-- wp:social-link {"url":"#","service":"linkedin"} /-->
+<!-- wp:social-link {"url":"#","service":"x"} /-->
+<!-- wp:social-link {"url":"#","service":"instagram"} /--></ul>
+<!-- /wp:social-links --></div>
+<!-- /wp:column -->
+<!-- wp:column {"width":"33.33%","style":{"spacing":{"padding":{"right":"var:preset|spacing|md","left":"var:preset|spacing|md","top":"var:preset|spacing|md","bottom":"var:preset|spacing|md"}}},"backgroundColor":"neutral-900"} -->
+<div class="wp-block-column has-neutral-900-background-color has-background" style="padding-top:var(--wp--preset--spacing--md);padding-right:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--md);padding-left:var(--wp--preset--spacing--md);flex-basis:33.33%"><!-- wp:image {"id":1050,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="<?php echo home_url() ?>/wp-content/uploads/sites/8/2023/12/061.jpg" alt="" class="wp-image-1050"/></figure>
+<!-- /wp:image -->
+<!-- wp:heading {"level":4,"gradient":"primary-background","fontSize":"20"} -->
+<h4 class="wp-block-heading has-primary-background-gradient-background has-background has-20-font-size">Shane Jacobs</h4>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"var:preset|spacing|xxs"}}}} -->
+<p style="margin-top:var(--wp--preset--spacing--xxs)">Co-founder &amp; CTO</p>
+<!-- /wp:paragraph -->
+<!-- wp:social-links {"iconColor":"primary-950","iconColorValue":"#172554","iconBackgroundColor":"primary-200","iconBackgroundColorValue":"#bfdbfe","size":"has-small-icon-size","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|xs","left":"var:preset|spacing|xs"},"margin":{"top":"var:preset|spacing|xs"}}},"className":"is-style-default"} -->
+<ul class="wp-block-social-links has-small-icon-size has-icon-color has-icon-background-color is-style-default" style="margin-top:var(--wp--preset--spacing--xs)"><!-- wp:social-link {"url":"#","service":"facebook"} /-->
+<!-- wp:social-link {"url":"#","service":"linkedin"} /-->
+<!-- wp:social-link {"url":"#","service":"x"} /-->
+<!-- wp:social-link {"url":"#","service":"instagram"} /--></ul>
+<!-- /wp:social-links --></div>
+<!-- /wp:column -->
+<!-- wp:column {"width":"33.33%","style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md","left":"var:preset|spacing|md","right":"var:preset|spacing|md"}}},"backgroundColor":"neutral-900"} -->
+<div class="wp-block-column has-neutral-900-background-color has-background" style="padding-top:var(--wp--preset--spacing--md);padding-right:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--md);padding-left:var(--wp--preset--spacing--md);flex-basis:33.33%"><!-- wp:image {"id":1029,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="<?php echo home_url() ?>/wp-content/uploads/sites/8/2023/12/040.jpg" alt="" class="wp-image-1029"/></figure>
+<!-- /wp:image -->
+<!-- wp:heading {"level":4,"gradient":"primary-background","fontSize":"20"} -->
+<h4 class="wp-block-heading has-primary-background-gradient-background has-background has-20-font-size">Luke Williams</h4>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"var:preset|spacing|xxs"}}}} -->
+<p style="margin-top:var(--wp--preset--spacing--xxs)">Chief Operating Officer</p>
+<!-- /wp:paragraph -->
+<!-- wp:social-links {"iconColor":"primary-950","iconColorValue":"#172554","iconBackgroundColor":"primary-200","iconBackgroundColorValue":"#bfdbfe","size":"has-small-icon-size","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|xs","left":"var:preset|spacing|xs"},"margin":{"top":"var:preset|spacing|xs"}}},"className":"is-style-default"} -->
+<ul class="wp-block-social-links has-small-icon-size has-icon-color has-icon-background-color is-style-default" style="margin-top:var(--wp--preset--spacing--xs)"><!-- wp:social-link {"url":"#","service":"facebook"} /-->
+<!-- wp:social-link {"url":"#","service":"linkedin"} /-->
+<!-- wp:social-link {"url":"#","service":"x"} /-->
+<!-- wp:social-link {"url":"#","service":"instagram"} /--></ul>
+<!-- /wp:social-links --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+<!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"var:preset|spacing|md","left":"var:preset|spacing|md"},"margin":{"top":"var:preset|spacing|md"}}}} -->
+<div class="wp-block-columns" style="margin-top:var(--wp--preset--spacing--md)"><!-- wp:column {"width":"33.33%","style":{"spacing":{"padding":{"right":"var:preset|spacing|md","left":"var:preset|spacing|md","top":"var:preset|spacing|md","bottom":"var:preset|spacing|md"}}},"backgroundColor":"neutral-900"} -->
+<div class="wp-block-column has-neutral-900-background-color has-background" style="padding-top:var(--wp--preset--spacing--md);padding-right:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--md);padding-left:var(--wp--preset--spacing--md);flex-basis:33.33%"><!-- wp:image {"id":995,"sizeSlug":"full","linkDestination":"none","style":{"filter":{},"color":{}}} -->
+<figure class="wp-block-image size-full"><img src="<?php echo content_url( "/themes/codeify/assets/" ) ?>img/006.jpg" alt="" class="wp-image-995"/></figure>
+<!-- /wp:image -->
+<!-- wp:heading {"level":4,"gradient":"primary-background","fontSize":"20"} -->
+<h4 class="wp-block-heading has-primary-background-gradient-background has-background has-20-font-size">Floyd Miles</h4>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"var:preset|spacing|xxs"}}}} -->
+<p style="margin-top:var(--wp--preset--spacing--xxs)">Chief Security Officer</p>
+<!-- /wp:paragraph -->
+<!-- wp:social-links {"iconColor":"primary-950","iconColorValue":"#172554","iconBackgroundColor":"primary-200","iconBackgroundColorValue":"#bfdbfe","size":"has-small-icon-size","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|xs","left":"var:preset|spacing|xs"},"margin":{"top":"var:preset|spacing|xs"}}},"className":"is-style-default"} -->
+<ul class="wp-block-social-links has-small-icon-size has-icon-color has-icon-background-color is-style-default" style="margin-top:var(--wp--preset--spacing--xs)"><!-- wp:social-link {"url":"#","service":"facebook"} /-->
+<!-- wp:social-link {"url":"#","service":"linkedin"} /-->
+<!-- wp:social-link {"url":"#","service":"x"} /-->
+<!-- wp:social-link {"url":"#","service":"instagram"} /--></ul>
+<!-- /wp:social-links --></div>
+<!-- /wp:column -->
+<!-- wp:column {"width":"33.33%","style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md","left":"var:preset|spacing|md","right":"var:preset|spacing|md"}}},"backgroundColor":"neutral-900"} -->
+<div class="wp-block-column has-neutral-900-background-color has-background" style="padding-top:var(--wp--preset--spacing--md);padding-right:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--md);padding-left:var(--wp--preset--spacing--md);flex-basis:33.33%"><!-- wp:image {"id":990,"sizeSlug":"full","linkDestination":"none","style":{"color":{}}} -->
+<figure class="wp-block-image size-full"><img src="<?php echo content_url( "/themes/codeify/assets/" ) ?>img/001.jpg" alt="" class="wp-image-990"/></figure>
+<!-- /wp:image -->
+<!-- wp:heading {"level":4,"gradient":"primary-background","fontSize":"20"} -->
+<h4 class="wp-block-heading has-primary-background-gradient-background has-background has-20-font-size">Sarah Roberts</h4>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"var:preset|spacing|xxs"}}}} -->
+<p style="margin-top:var(--wp--preset--spacing--xxs)">Chief Financial Officer</p>
+<!-- /wp:paragraph -->
+<!-- wp:social-links {"iconColor":"primary-950","iconColorValue":"#172554","iconBackgroundColor":"primary-200","iconBackgroundColorValue":"#bfdbfe","size":"has-small-icon-size","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|xs","left":"var:preset|spacing|xs"},"margin":{"top":"var:preset|spacing|xs"}}},"className":"is-style-default"} -->
+<ul class="wp-block-social-links has-small-icon-size has-icon-color has-icon-background-color is-style-default" style="margin-top:var(--wp--preset--spacing--xs)"><!-- wp:social-link {"url":"#","service":"facebook"} /-->
+<!-- wp:social-link {"url":"#","service":"linkedin"} /-->
+<!-- wp:social-link {"url":"#","service":"x"} /-->
+<!-- wp:social-link {"url":"#","service":"instagram"} /--></ul>
+<!-- /wp:social-links --></div>
+<!-- /wp:column -->
+<!-- wp:column {"width":"33.33%","style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md","left":"var:preset|spacing|md","right":"var:preset|spacing|md"}}},"backgroundColor":"neutral-900","className":"is-style-default"} -->
+<div class="wp-block-column is-style-default has-neutral-900-background-color has-background" style="padding-top:var(--wp--preset--spacing--md);padding-right:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--md);padding-left:var(--wp--preset--spacing--md);flex-basis:33.33%"><!-- wp:image {"id":1009,"sizeSlug":"full","linkDestination":"none","style":{"filter":{"opacity":"90"}}} -->
+<figure class="wp-block-image size-full" style="filter:opacity(90%)"><img src="<?php echo content_url( "/themes/codeify/assets/" ) ?>img/020.jpg" alt="" class="wp-image-1009"/></figure>
+<!-- /wp:image -->
+<!-- wp:heading {"level":4,"gradient":"primary-background","fontSize":"20"} -->
+<h4 class="wp-block-heading has-primary-background-gradient-background has-background has-20-font-size">Dries Vincent</h4>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"var:preset|spacing|xxs","bottom":"0"}}}} -->
+<p style="margin-top:var(--wp--preset--spacing--xxs);margin-bottom:0">Lead Software Engineer</p>
+<!-- /wp:paragraph -->
+<!-- wp:social-links {"iconColor":"primary-950","iconColorValue":"#172554","iconBackgroundColor":"primary-200","iconBackgroundColorValue":"#bfdbfe","size":"has-small-icon-size","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|xs","left":"var:preset|spacing|xs"},"margin":{"top":"var:preset|spacing|xs","bottom":"0"}}},"className":"is-style-default"} -->
+<ul class="wp-block-social-links has-small-icon-size has-icon-color has-icon-background-color is-style-default" style="margin-top:var(--wp--preset--spacing--xs);margin-bottom:0"><!-- wp:social-link {"url":"#","service":"facebook"} /-->
+<!-- wp:social-link {"url":"#","service":"linkedin"} /-->
+<!-- wp:social-link {"url":"#","service":"x"} /-->
+<!-- wp:social-link {"url":"#","service":"instagram"} /--></ul>
+<!-- /wp:social-links --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+<!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
+<div class="wp-block-group alignwide"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:heading {"gradient":"primary-background"} -->
+<h2 class="wp-block-heading has-primary-background-gradient-background has-background">We approach the workplace as something that adds to our lives and adds value to world.</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary-100"}}}},"textColor":"primary-100"} -->
+<p class="has-primary-100-color has-text-color has-link-color">Diam nunc lacus lacus aliquam turpis enim. Eget hac velit est euismod lacus. Est non placerat nam arcu. Cras purus nibh cursus sit eu in id. Integer vel nibh.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+<!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+<!-- wp:columns {"verticalAlignment":"bottom"} -->
+<div class="wp-block-columns are-vertically-aligned-bottom"><!-- wp:column {"verticalAlignment":"bottom","style":{"spacing":{"padding":{"right":"var:preset|spacing|lg","left":"var:preset|spacing|lg","top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg"}},"elements":{"link":{"color":{"text":"var:preset|color|primary-950"}}}},"textColor":"primary-950","gradient":"primary-background"} -->
+<div class="wp-block-column is-vertically-aligned-bottom has-primary-950-color has-primary-background-gradient-background has-text-color has-background has-link-color" style="padding-top:var(--wp--preset--spacing--lg);padding-right:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg);padding-left:var(--wp--preset--spacing--lg)"><!-- wp:paragraph -->
+<p>250k</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Users on the platform</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Vel labore deleniti veniam consequuntur sunt nobis.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+<!-- wp:column {"verticalAlignment":"bottom","style":{"spacing":{"padding":{"right":"var:preset|spacing|lg","left":"var:preset|spacing|lg","top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg"}},"elements":{"link":{"color":{"text":"var:preset|color|primary-950"}}}},"textColor":"primary-950","gradient":"primary-background"} -->
+<div class="wp-block-column is-vertically-aligned-bottom has-primary-950-color has-primary-background-gradient-background has-text-color has-background has-link-color" style="padding-top:var(--wp--preset--spacing--lg);padding-right:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg);padding-left:var(--wp--preset--spacing--lg)"><!-- wp:paragraph -->
+<p>$8.9 billion</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>We’re proud that our customers have made over $8 billion in total revenue.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Eu duis porta aliquam ornare. Elementum eget magna egestas.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+<!-- wp:column {"verticalAlignment":"bottom","style":{"spacing":{"padding":{"right":"var:preset|spacing|lg","left":"var:preset|spacing|lg","top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg"}},"elements":{"link":{"color":{"text":"var:preset|color|primary-25"}}}},"textColor":"primary-25","gradient":"primary"} -->
+<div class="wp-block-column is-vertically-aligned-bottom has-primary-25-color has-primary-gradient-background has-text-color has-background has-link-color" style="padding-top:var(--wp--preset--spacing--lg);padding-right:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg);padding-left:var(--wp--preset--spacing--lg)"><!-- wp:paragraph -->
+<p>401,093</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Transactions this year</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Eu duis porta aliquam ornare. Elementum eget magna egestas. Eu duis porta aliquam ornare.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg"}}},"layout":{"type":"default"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg)"><!-- wp:image {"id":698,"sizeSlug":"large","linkDestination":"none","style":{"boxShadow":{"color":"var(\u002d\u002dwp\u002d\u002dpreset\u002d\u002dcolor\u002d\u002dprimary-900)","blur":"44"},"border":{"color":"#1d4ed8","radius":"30px"}},"useCustomBoxShadow":true} -->
+<figure class="wp-block-image size-large has-custom-border has-border-color has-box-shadow" style="border-color:#1d4ed8;border-radius:30px;--wp--custom--box-shadow--blur:44px;--wp--custom--box-shadow--color:var(--wp--preset--color--primary-900)"><img src="<?php echo content_url( "/themes/codeify/assets/" ) ?>img/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvaXMxNDYwOS1pbWFnZS1rd3Z3c3Z2dy5qcGc-1024x682.webp" alt="" class="has-border-color wp-image-698" style="border-color:#1d4ed8;border-radius:30px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+<!-- wp:group {"align":"wide","style":{"border":{"radius":"30px"},"overflow":{"all":"hidden"},"spacing":{"padding":{"right":"var:preset|spacing|sm","left":"var:preset|spacing|sm"}}},"gradient":"radial-down","layout":{"type":"default"}} -->
+<div class="wp-block-group alignwide has-radial-down-gradient-background has-background" style="border-radius:30px;padding-right:var(--wp--preset--spacing--sm);padding-left:var(--wp--preset--spacing--sm)"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0"}}},"layout":{"type":"constrained","contentSize":"560px"}} -->
+<div class="wp-block-group" style="padding-top:0"><!-- wp:heading {"textAlign":"center","gradient":"primary-background"} -->
+<h2 class="wp-block-heading has-text-align-center has-primary-background-gradient-background has-background">Join our team and start your dream career</h2>
 <!-- /wp:heading -->
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"},"style":{"spacing":{"margin":{"top":"var:preset|spacing|md","bottom":"-32px"}}}} -->
 <div class="wp-block-buttons" style="margin-top:var(--wp--preset--spacing--md);margin-bottom:-32px"><!-- wp:button {"size":"large"} -->
@@ -416,5 +508,5 @@
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
 <!-- /wp:group -->
-<!-- wp:pattern {"slug":"testimonial-brands-dark"} /--></div>
+<!-- wp:pattern {"slug":"cta-center"} /--></div>
 <!-- /wp:group -->
