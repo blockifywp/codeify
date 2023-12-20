@@ -150,7 +150,8 @@
 				"color": "var(--wp--preset--color--primary-600)"
 			},
 			"input": {
-				"background": "var(--wp--preset--color--neutral-0)",
+				"background": "#ffffff11",
+				"borderRadius": "10px",
 				"focus": {
 					"boxShadow": "var(--wp--preset--shadow--sm)",
 					"borderColor": "var(--wp--preset--color--primary-500)"
@@ -354,9 +355,19 @@
 					"slug": "radial-down"
 				},
 				{
+					"gradient": "radial-gradient(150% 100% at 50% 0%, var(--wp--preset--color--neutral-0) 10%, var(--wp--preset--color--primary-300) 20%, var(--wp--preset--color--primary-500) 30%, var(--wp--preset--color--primary-900) 40%, transparent 50%),radial-gradient(150% 100% at 50% 100%, var(--wp--preset--color--neutral-0) 10%, var(--wp--preset--color--primary-300) 20%, var(--wp--preset--color--primary-500) 30%, var(--wp--preset--color--primary-900) 40%, transparent 50%),radial-gradient(75% 75% at 50% 50%, var(--wp--preset--color--neutral-950) 0%, var(--wp--preset--color--neutral-950) 100%)",
+					"name": "Hourglass",
+					"slug": "hourglass"
+				},
+				{
 					"gradient": "radial-gradient(75% 150% at 50% -50%, var(--wp--preset--color--primary-900) 20%, transparent 100%)",
 					"name": "Light Bulb",
 					"slug": "light-bulb"
+				},
+				{
+					"slug": "glow",
+					"name": "Glow",
+					"gradient": "radial-gradient(50% 50% at 50% 50%, var(--wp--preset--color--primary-950) 0%, transparent 100%)"
 				},
 				{
 					"gradient": "linear-gradient(135deg,var(--wp--preset--color--primary-700) 0%,var(--wp--preset--color--primary-400) 100%)",
@@ -392,16 +403,6 @@
 					"gradient": "linear-gradient(135deg,var(--wp--preset--color--neutral-100) 0%,var(--wp--preset--color--neutral-200) 100%)",
 					"name": "Surface/Border",
 					"slug": "surface-border"
-				},
-				{
-					"gradient": "linear-gradient(0deg,var(--wp--preset--color--neutral-950) 50%,transparent 50%)",
-					"name": "Background/Transparent",
-					"slug": "background-transparent"
-				},
-				{
-					"gradient": "linear-gradient(180deg,var(--wp--preset--color--neutral-950) 50%,transparent 50%)",
-					"name": "Transparent/Background",
-					"slug": "transparent-background"
 				},
 				{
 					"gradient": "conic-gradient(var(--wp--preset--color--primary-100) 0% 35%, var(--wp--preset--color--primary-300) 35% 60%, var(--wp--preset--color--primary-500) 60% 100%)",
@@ -482,8 +483,8 @@
 	},
 	"styles": {
 		"color": {
-			"background": "var(--wp--preset--color--neutral-0)",
-			"text": "var(--wp--preset--color--neutral-600)"
+			"background": "var(--wp--preset--color--neutral-950)",
+			"text": "var(--wp--preset--color--primary-100)"
 		},
 		"spacing": {
 			"blockGap": "var(--wp--preset--spacing--sm)"
@@ -525,7 +526,7 @@
 					"letterSpacing": "-0.02em"
 				},
 				"color": {
-					"text": "var(--wp--preset--color--neutral-950)"
+					"text": "var(--wp--preset--color--neutral-0)"
 				}
 			},
 			"h1": {
@@ -580,13 +581,6 @@
 					"color": {
 						"text": "var(--wp--preset--color--primary-700)"
 					}
-				}
-			}
-		},
-		"blocks": {
-			"core/post-title": {
-				"color": {
-					"text": "var(--wp--preset--color--neutral-950)"
 				}
 			}
 		}
