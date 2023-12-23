@@ -36,19 +36,19 @@
 <div class="wp-block-columns is-not-stacked-on-mobile"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|xxs","margin":{"top":"0"}}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group" style="margin-top:0"><!-- wp:paragraph {"className":"has-text-align-left"} -->
-<p class="has-text-align-left"><a href="/">Home</a></p>
+<p class="has-text-align-left"><a href="/codeify">Home</a></p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph -->
-<p>Features</p>
+<p><a href="/codeify/features">Features</a></p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph -->
-<p>Pricing</p>
+<p><a href="/codeify/pricing">Pricing</a></p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph -->
-<p>About Us</p>
+<p><a href="/codeify/about">About Us</a></p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph -->
-<p>Contact</p>
+<p><a href="/codeify/about">Contact</a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
@@ -74,6 +74,12 @@
 <!-- /wp:paragraph -->
 <!-- wp:paragraph -->
 <p>Blank</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p><a href="/codeify/parent-page">Parent Page</a></p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p><a href="/codeify/parent-page/sub-page">Sub Page</a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>
@@ -82,10 +88,10 @@
 <!-- wp:column {"width":"33.3%"} -->
 <div class="wp-block-column" style="flex-basis:33.3%"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|xxs","margin":{"top":"0"}}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group" style="margin-top:0"><!-- wp:paragraph {"className":"has-text-align-left"} -->
-<p class="has-text-align-left">Terms of Service </p>
+<p class="has-text-align-left"><a href="/codeify/terms" data-type="page" data-id="15116">Terms of Service </a></p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph {"className":"has-text-align-left"} -->
-<p class="has-text-align-left">Privacy Policy </p>
+<p class="has-text-align-left"><a href="/codeify/privacy">Privacy Policy </a></p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph {"className":"has-text-align-left"} -->
 <p class="has-text-align-left">Register </p>
@@ -110,10 +116,10 @@
 <!-- /wp:paragraph -->
 <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"right"}} -->
 <div class="wp-block-group"><!-- wp:paragraph -->
-<p><a href="#">Terms of Service</a></p>
+<p><a href="/codeify/terms">Terms of Service</a></p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph -->
-<p><a href="#">Privacy Policy</a></p>
+<p><a href="/codeify/privacy">Privacy Policy</a></p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph -->
 <p><a href="#">Return to Top</a></p>

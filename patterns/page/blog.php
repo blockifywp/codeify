@@ -17,9 +17,12 @@
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
-<!-- wp:heading {"textAlign":"center","level":1,"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|sm"}}},"gradient":"primary-foreground","className":"wp-block-heading"} -->
-<h1 class="wp-block-heading has-text-align-center has-primary-foreground-gradient-background has-background" style="padding-bottom:var(--wp--preset--spacing--sm)">From the Blog</h1>
+<!-- wp:heading {"textAlign":"center","level":1,"style":{"spacing":{"padding":{"bottom":"0"}}},"gradient":"primary-foreground","className":"wp-block-heading"} -->
+<h1 class="wp-block-heading has-text-align-center has-primary-foreground-gradient-background has-background" style="padding-bottom:0">From the Blog</h1>
 <!-- /wp:heading -->
+<!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary-950"}}},"spacing":{"padding":{"bottom":"var:preset|spacing|sm"},"margin":{"top":"var:preset|spacing|xs"}}},"textColor":"primary-950"} -->
+<p class="aligncenter has-text-align-center has-primary-950-color has-text-color has-link-color aligncenter" style="margin-top:var(--wp--preset--spacing--xs);padding-bottom:var(--wp--preset--spacing--sm)">Discover the latest news, tips, and tricks from our team. Stay up to date with the latest trends in AI and machine learning.</p>
+<!-- /wp:paragraph -->
 <!-- wp:query {"queryId":3,"query":{"perPage":"1","pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false},"align":"wide"} -->
 <div class="wp-block-query alignwide"><!-- wp:post-template -->
 <!-- wp:columns {"verticalAlignment":"center","style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg","left":"var:preset|spacing|lg","right":"var:preset|spacing|lg"},"blockGap":{"top":"var:preset|spacing|lg","left":"var:preset|spacing|lg"}}},"backgroundColor":"neutral-900"} -->
