@@ -534,7 +534,7 @@
 					"fontFamily": "var(--wp--preset--font-family--inter-tight)",
 					"fontWeight": "var(--wp--custom--font-weight--bold)",
 					"lineHeight": "1.15",
-					"letterSpacing": "-0.02em"
+					"letterSpacing": "-0.025em"
 				},
 				"color": {
 					"text": "var(--wp--preset--color--neutral-0)"
@@ -543,7 +543,7 @@
 			"h1": {
 				"typography": {
 					"fontSize": "var(--wp--preset--font-size--72)",
-					"lineHeight": "var(--wp--preset--font-size--88)"
+					"lineHeight": "1.16"
 				}
 			},
 			"h2": {
