@@ -76,7 +76,7 @@
 			"border": {
 				"width": "1px",
 				"style": "solid",
-				"color": "var(--wp--preset--color--neutral-200)",
+				"color": "var(--wp--preset--color--neutral-800)",
 				"radius": "30px"
 			},
 			"boxShadow": {
@@ -108,6 +108,7 @@
 				"timingFunction": "ease-in"
 			},
 			"darkMode": {
+				"defaultMode": "dark",
 				"ghost": {
 					"color": "var(--wp--preset--color--primary-600)",
 					"opacity": "0.2"
@@ -199,34 +200,64 @@
 			"link": true,
 			"palette": [
 				{
+					"name": "Primary 950",
+					"slug": "primary-950",
+					"color": "#1e1b4b"
+				},
+				{
 					"name": "Primary 900",
 					"slug": "primary-900",
-					"color": "#14532d"
+					"color": "#312e81"
+				},
+				{
+					"name": "Primary 800",
+					"slug": "primary-800",
+					"color": "#3730a3"
 				},
 				{
 					"name": "Primary 700",
 					"slug": "primary-700",
-					"color": "#15803d"
+					"color": "#4338ca"
 				},
 				{
 					"name": "Primary 600",
 					"slug": "primary-600",
-					"color": "#16a34a"
+					"color": "#4f46e5"
 				},
 				{
 					"name": "Primary 500",
 					"slug": "primary-500",
-					"color": "#22c55e"
+					"color": "#6366f1"
+				},
+				{
+					"name": "Primary 400",
+					"slug": "primary-400",
+					"color": "#818cf8"
 				},
 				{
 					"name": "Primary 300",
 					"slug": "primary-300",
-					"color": "#86efac"
+					"color": "#a5b4fc"
+				},
+				{
+					"name": "Primary 200",
+					"slug": "primary-200",
+					"color": "#c7d2fe"
 				},
 				{
 					"name": "Primary 100",
 					"slug": "primary-100",
-					"color": "#dcfce7"
+					"color": "#e0e7ff"
+				},
+				{
+					"name": "Primary 50",
+					"slug": "primary-50",
+					"color": "#eef2ff"
+				},
+				{
+					"name": "Primary 25",
+					"slug": "primary-25",
+					"color": "#f7f8ff"
 				},
 				{
 					"name": "Neutral 950",
@@ -512,7 +543,7 @@
 					"radius": "99px"
 				},
 				"color": {
-					"text": "#fff",
+					"text": "var(--wp--preset--color--primary-25)",
 					"background": "var(--wp--preset--color--neutral-950)"
 				},
 				"spacing": {
@@ -592,6 +623,18 @@
 					"color": {
 						"text": "var(--wp--preset--color--primary-700)"
 					}
+				}
+			}
+		},
+		"blocks": {
+			"core/calendar": {
+				"color": {
+					"background": "var(--wp--preset--color--neutral-900)"
+				}
+			},
+			"core/code": {
+				"color": {
+					"background": "var(--wp--preset--color--neutral-900)"
 				}
 			}
 		}
