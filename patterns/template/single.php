@@ -38,7 +38,7 @@
 <!-- wp:post-featured-image {"style":{"aspectRatio":{"all":"16/9"},"objectFit":{"all":"cover"},"spacing":{"margin":{"top":"var:preset|spacing|lg"}}},"usePlaceholder":"none"} /--></div>
 <!-- /wp:group -->
 <!-- wp:post-excerpt {"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|sm"}}},"fontSize":"20","hideReadMore":true} /-->
-<!-- wp:blockify/post-content /-->
+<!-- wp:post-content /-->
 <!-- wp:social-links {"iconColor":"primary-200","iconColorValue":"#c7d2fe","iconBackgroundColor":"primary-950","iconBackgroundColorValue":"#1e1b4b","openInNewTab":true,"size":"has-normal-icon-size","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|xs","left":"var:preset|spacing|xs"},"margin":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"}},"position":{"all":"relative"},"zIndex":{"all":"1"}},"className":"is-style-default","layout":{"type":"flex","justifyContent":"left","orientation":"horizontal"}} -->
 <ul class="wp-block-social-links has-normal-icon-size has-icon-color has-icon-background-color is-style-default" style="margin-top:var(--wp--preset--spacing--xl);margin-bottom:var(--wp--preset--spacing--xl)"><!-- wp:social-link {"url":"#","service":"facebook"} /-->
 <!-- wp:social-link {"url":"#","service":"instagram"} /-->
