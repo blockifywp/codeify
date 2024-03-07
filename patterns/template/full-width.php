@@ -11,4 +11,4 @@
 <!-- wp:group {"tagName":"main","align":"full","style":{"position":{"all":"relative"},"overflow":{"all":""},"zIndex":{"all":"1"}},"layout":{"type":"constrained"}} -->
 <main class="wp-block-group alignfull" id="site-main"><!-- wp:post-content {"style":{"position":{"all":"relative"},"zIndex":{"all":"1"}},"align":"full"} /--></main>
 <!-- /wp:group -->
-<!-- wp:template-part {"slug":"footer","tagName":"footer","className":"site-footer","style":{"position":{"all":"relative"},"zIndex":{"all":""}}} /-->
+<!-- wp:template-part {"slug":"footer","tagName":"footer","className":"site-footer","style":{"position":{"all":"relative"}}} /-->

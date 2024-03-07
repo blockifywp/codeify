@@ -1,7 +1,6 @@
 {
   "$schema": "https://schemas.wp.org/trunk/theme.json",
   "version": 2,
-  "title": "Light",
   "customTemplates": [
     {
       "title": "Archive: Download",
@@ -107,13 +106,7 @@
         "duration": "0.1s",
         "timingFunction": "ease-in"
       },
-      "darkMode": {
-        "defaultMode": "dark",
-        "ghost": {
-          "color": "var(--wp--preset--color--primary-600)",
-          "opacity": "0.2"
-        }
-      },
+      "darkMode": false,
       "strong": {
         "fontWeight": "var(--wp--custom--font-weight--medium)"
       },
