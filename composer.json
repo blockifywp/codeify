@@ -27,6 +27,7 @@
     ]
   },
   "scripts": {
-    "zip": "composer archive --format=zip --file=../codeify"
+    "zip": "composer archive --format=zip --file=../codeify",
+    "pot": "wp i18n make-pot ./ languages/codeify.pot --exclude='assets'"
   }
 }
