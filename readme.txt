@@ -43,7 +43,7 @@ GNU General Public License for more details.
 * Devicons (svg), MIT, https://devicon.dev
 * Phosphor Duotone Icons (svg), MIT, https://phosphoricons.com
 * Interfaces Images (jpg), CC0, https://github.com/cjdowner/interfaces
-* Source Code (mp4), CC0, https://pixabay.com/videos/source-code-development-code-4733
+* Particle Motion (mp4), CC0, https://www.videvo.net/video/particle-motion-visualisation-plexus/4795/
 
 == Changelog ==
 

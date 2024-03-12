@@ -165,6 +165,9 @@
         "width": "12px",
         "animationDuration": "0s"
       },
+      "nav": {
+        "backgroundOpacity": ".9"
+      },
       "submenu": {
         "boxShadow": "var(--wp--preset--shadow--xl)"
       },
