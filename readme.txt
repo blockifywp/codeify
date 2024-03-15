@@ -50,6 +50,7 @@ GNU General Public License for more details.
 = 0.0.3 - 15 March 2024 =
 
 * Add: 404 template and pattern
+* Update: Placeholder background color
 
 = 0.0.2 - 15 March 2024 =
 
