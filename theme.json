@@ -152,7 +152,7 @@
         }
       },
       "placeholder": {
-        "background": "var(--wp--preset--color--neutral-100)"
+        "background": "var(--wp--preset--color--neutral-700)"
       },
       "icon": {
         "color": "currentcolor"
