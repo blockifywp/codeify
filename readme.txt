@@ -3,7 +3,7 @@
 Contributors: blockify
 Requires at least: 6.4
 Tested up to: 6.4
-Stable tag: 0.0.1
+Stable tag: 0.0.2
 License: GPL-2.0-or-later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -47,6 +47,10 @@ GNU General Public License for more details.
 
 == Changelog ==
 
+= 0.0.2 - 15 March 2024 =
+
+* Update: Version bump for WordPress.org submission
+
 = 0.0.1 - 12 March 2024 =
 
-* Initial release
+* New: Initial release
