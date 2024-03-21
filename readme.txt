@@ -3,7 +3,7 @@
 Contributors: blockify
 Requires at least: 6.4
 Tested up to: 6.4
-Stable tag: 0.0.3
+Stable tag: 0.0.4
 License: GPL-2.0-or-later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -46,6 +46,10 @@ GNU General Public License for more details.
 * Particle Motion (mp4), CC0, https://www.videvo.net/video/particle-motion-visualisation-plexus/4795/
 
 == Changelog ==
+
+= 0.0.4 - 21 March 2024 =
+
+* Fix: Marquee fade-edges in patterns
 
 = 0.0.3 - 15 March 2024 =
 
