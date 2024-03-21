@@ -50,6 +50,7 @@ GNU General Public License for more details.
 = 0.0.4 - 21 March 2024 =
 
 * Fix: Marquee fade-edges in patterns
+* Update: CTA box email input
 
 = 0.0.3 - 15 March 2024 =
 
